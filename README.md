@@ -5,12 +5,14 @@
 
 Here are some ideas to get you started: -->
 
+- 🦸‍ Head at [Coding Forum, VIIT](https://codingforum.web.app)
 - 🔭 I’m currently working on Flutter app, Django website.
 - 🌱 I’m currently learning Data Science, Machine Learning, and Algorithms.
 <!--- 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about myself 
 - 😄 Pronouns: ... -->
+- 🤝 I’m looking for internship in Flutter or ML/Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohan-kale)
 - ⚡ Fun fact: I like Banana chips
 

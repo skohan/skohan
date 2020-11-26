@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🦸‍ Head at [Coding Forum, VIIT](https://codingforum.web.app)
+- 🦸‍ Head at [Coding Forum, VIIT](https://codingforum.cf). ( [GitHub](https://github.com/codingforum) )
 - 🔭 I’m currently working on Flutter app, Django website.
 - 🌱 I’m currently learning Data Science, Machine Learning, and Algorithms.
 <!--- 👯 I’m looking to collaborate on Flutter projects

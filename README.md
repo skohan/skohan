@@ -6,6 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🦸‍ Head at [Coding Forum, VIIT](https://codingforum.cf). ( [GitHub](https://github.com/codingforum) )
+- 🐦 Flutter developer and head of Flutter team of Developer Student's Club VIIT.
 - 🔭 I’m currently working on Flutter app, Django website.
 - 🌱 I’m currently learning Data Science, Machine Learning, and Algorithms.
 <!--- 👯 I’m looking to collaborate on Flutter projects
@@ -14,7 +15,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ... -->
 - 🤝 I’m looking for internship in Flutter or ML/Data Science
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sohan-kale)
-- ⚡ Fun fact: I like Banana chips
+- ⚡ Fun fact: I like spicy Banana chips
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>

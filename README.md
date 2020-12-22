@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohan-k&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=skohan&show_icons=true&theme=dark" />
 </p>
 
 

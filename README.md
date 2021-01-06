@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🦸‍ Head at [Coding Forum, VIIT](https://codingforum.cf). ( [GitHub](https://github.com/codingforum) )
-- 🐦 Flutter developer and head of Flutter team in Developer Student's Club VIIT.
+- 🐦 Flutter developer and head of Flutter team in [Developer Student's Club VIIT](https://github.com/DSC_VIIT_PUNE).
 - 🔭 I’m currently working on Flutter app, Django website.
 - 🌱 I’m currently learning Data Science, Machine Learning, and Algorithms.
 <!--- 👯 I’m looking to collaborate on Flutter projects

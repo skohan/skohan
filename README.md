@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 
 - 🦸‍ Software Engineer, B.Tech computer engineering 2022
 - 👷‍ Learning and working on AWS
-- 🌱 I’m currently learning Data Science, Machine Learning, and Algorithms.
+- 🌱 Exploring Data Science, Machine Learning, and Algorithms.
 <!--- 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about myself 
